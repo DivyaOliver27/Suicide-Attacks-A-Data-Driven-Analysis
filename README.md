@@ -11,8 +11,8 @@ This project focuses on analyzing global suicide attacks using visual data insig
 - Gender of attackers (male vs. female)
 - Specific attack locations (especially in the U.S.)
 
-  -##Project Dataset 🔗 ##
-- https://corgis-edu.github.io/corgis/csv/
+  -##Project Dataset 🔗
+  https://corgis-edu.github.io/corgis/csv/
 
 ### 📈 Data Visualization & Analysis
 
